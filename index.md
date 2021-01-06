@@ -4,38 +4,51 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently working as a senior research engineer at AI Vision Lab, Samsung SDS since March 2019. 
+In 2019, I received Ph.D. (Dissertation: Mathematical Modeling and Analysis for Adaptive Medium Ac-cess Protocols in Wireless Networks) from the department of Mathematical Sciences (Applied Probability) at Korea Advanced Institute of Science and Technology (KAIST) under the supervision of Prof. Ganguk Hwang.
+In 2013, I received B.S from the department of Mathematical Sciences at KAIST.
 
+My primary research objective is to develop learning algorithms for training deep neural networks in a more accurate and efficient manner using techniques from statistics and probability theory. 
+To this end, I have conducted research on deep metric learning and interpretable machine learning for convolutional neural networks and am now expanding domains to graph neural networks.
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Mathematics:** statistical inference, stochastic process
+- **Machine Learning:** representation learning, interpretable machine learning, graph neural networks, meta-learning
 
 ## News
 
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Nov 2020]** Our paper about interpretable machine learning is accepted to [WACV 2021](http://wacv2021.thecvf.com/home).
+- **[Nov 2020]** Our paper about interpretable machine learning is accepted to [ICPR 2020 WS](https://edl-ai-icpr.labri.fr/).
 
 ## Publications
+**J**: Journal, **C**: Conference, **W**: Workshop, **D**: Dissertation
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+### 2020
+- **[C3] EVET: Enhancing Visual Explanations of Deep Neural Networks Using Image Transformations**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Youngrock Oh**, Hyungsik Jung, Jeonghyung Park, and Min Soo Kim
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  IEEE 2021 Winter Conference on Applications of Computer Vision. **WACV 2021**.
+  <br>  
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **[W1] Jointly Optimize Positive and Negative Saliencies for Black Box Classifiers**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Hyungsik Jung**, Youngrock Oh, Jeonghyung Park, and Min Soo Kim
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  25th International Conference on Pattern Recognition Workshop, Explainable Deep Learning-AI**ICPR 2020 WS**.
+  <br>  
 
+---
+
+### 2019
+
+---
+
+### 2018
+
+---
+
+<!--
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
   Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
@@ -70,3 +83,4 @@ I am a Ph.D. student at ...
 - Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
 - Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
 - Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+-->
