@@ -27,6 +27,7 @@ To this end, I have conducted research on deep metric learning and interpretable
 
 ### 2020
 - **[C3] EVET: Enhancing Visual Explanations of Deep Neural Networks Using Image Transformations**
+[paper](https://openaccess.thecvf.com/content/WACV2021/html/Oh_EVET_Enhancing_Visual_Explanations_of_Deep_Neural_Networks_Using_Image_WACV_2021_paper.html)
   <br>
   **Youngrock Oh**, Hyungsik Jung, Jeonghyung Park, and Min Soo Kim
   <br>
