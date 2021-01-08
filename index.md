@@ -11,7 +11,6 @@ In 2013, I received B.S from the department of Mathematical Sciences at KAIST.
 My primary research objective is to develop learning algorithms for training deep neural networks in a more accurate and efficient manner using techniques from statistics and probability theory. 
 To this end, I have conducted research on deep metric learning and interpretable machine learning for convolutional neural networks and am now expanding domains to graph neural networks.
 
-[Download the full cv.]({{site.cv}})
 ## Research Interests
 
 - **Mathematics:** statistical inference, stochastic process
@@ -110,7 +109,7 @@ Deep metric learning on the embeddings extracted through saliency methods
 Funded by Government of the Republic of Korea)
 <br> A stochastic geometry analysis of dynamic WLAN for a short period
 
-
+#### [Download the full cv.]({{site.cv}})
 <!--
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
