@@ -3,7 +3,7 @@ position: Senior Research Engineer
 affiliation: AI Vision Lab, Samsung SDS
 email: yrock.oh@gmail.com
 keywords: 
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?hl=en&user=wYNjx2eZQ8cC
 github_link: #https://github.com/yaoyao-liu/minimal-light
 linkedin: #https://www.linkedin.com/
 avatar: ./assets/img/202004_jeju_1_cr.jpg #./assets/img/avatar.png
@@ -14,6 +14,8 @@ description: The Minimal Light is a simple and elegant jekyll theme for academic
 canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
 url: https://youngrockoh/youngrockoh.github.io
+cv_icon: ./assets/img/cv_icon.png
+cv: ./assets/files/2020_cv.pdf
 
 # Defaults
 defaults:

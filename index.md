@@ -10,6 +10,8 @@ In 2013, I received B.S from the department of Mathematical Sciences at KAIST.
 
 My primary research objective is to develop learning algorithms for training deep neural networks in a more accurate and efficient manner using techniques from statistics and probability theory. 
 To this end, I have conducted research on deep metric learning and interpretable machine learning for convolutional neural networks and am now expanding domains to graph neural networks.
+
+[Download the full cv.]({{site.cv}})
 ## Research Interests
 
 - **Mathematics:** statistical inference, stochastic process
@@ -19,6 +21,8 @@ To this end, I have conducted research on deep metric learning and interpretable
 
 - **[Nov 2020]** Our paper on interpretable machine learning is accepted to [WACV 2021](http://wacv2021.thecvf.com/home).
 - **[Nov 2020]** Our paper on interpretable machine learning is accepted to [ICPR 2020 WS](https://edl-ai-icpr.labri.fr/).
+
+## Pubilications
 
 **J**: Journal, **C**: Conference, **W**: Workshop, **D**: Dissertation
 
@@ -65,6 +69,39 @@ Tsukuba, Japan, July 25-27, 2018.*
 <br>
 *IEEE Access, vol. 6, pp. 15155-15169, Apr 2018.*
 <br>
+
+---
+## Work Experience
+
+### 2020
+- **Interpretability Method for Graph Neural Network Models**
+(Nov 2020 ~ Present, Funded by Samsung SDS)
+<br> Develop interpretability methods for graph neural network-based link prediction models
+
+- **AI Framework for Interpretable Machine Learning and Continual Learning**
+(Jan 2020 ~ Oct 2020, Funded by Samsung SDS)
+<br> Developed interpretability methods for DNN image classification models
+<br> Developed a continual learning scheme using interpretability methods
+
+---
+### 2019
+- **Explainable AI**
+(Mar 2019 ~ Dec 2019
+, Funded by Samsung SDS)
+<br> Research on confidence scores for deep neural network models' decisions
+<br> Proposed a novel confidence score which covers both in-distribution and out-of-distribution data
+
+- **Simulation for Data Infrastructure based Application Service**
+(Oct 2018 ~ Dec 2018, Funded by ETRI)
+<br> Mathematical modeling and analysis of data-centric network with in-network processing based on queuing theory
+<br> Derived the optimal routing policy for current data flows to design adaptive in-network processing
+
+---
+### 2018
+- **Stochastic Modeling, Analysis and Optimization for IoT**
+(Mar 2017 ~ Dec 2018,
+Funded by Government of the Republic of Korea)
+<br> A stochastic geometry analysis of dynamic WLAN for a short period
 
 
 <!--
