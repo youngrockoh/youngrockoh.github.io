@@ -72,7 +72,14 @@ Tsukuba, Japan, July 25-27, 2018.*
 
 ---
 ## Work Experience
-
+<!--
+### 2021
+- **XAI-assisted Representation Learning**
+(Jan 2021 ~ Present, Funded by Samsung SDS)
+<br>
+Deep metric learning on the embeddings extracted through saliency methods
+---
+-->
 ### 2020
 - **Interpretability Method for Graph Neural Network Models**
 (Nov 2020 ~ Present, Funded by Samsung SDS)
