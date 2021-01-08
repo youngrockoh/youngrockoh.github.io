@@ -30,7 +30,9 @@ To this end, I have conducted research on deep metric learning and interpretable
   <br>
   **Youngrock Oh**, Hyungsik Jung, Jeonghyung Park, and Min Soo Kim
   <br>
-  *IEEE 2021 Winter Conference on Applications of Computer Vision (VIRTUAL).* **WACV 2021**. [[pdf]](https://openaccess.thecvf.com/content/WACV2021/papers/Oh_EVET_Enhancing_Visual_Explanations_of_Deep_Neural_Networks_Using_Image_WACV_2021_paper.pdf) 
+  *IEEE 2021 Winter Conference on Applications of Computer Vision (VIRTUAL).* **WACV 2021**.
+  [[pdf]](https://openaccess.thecvf.com/content/WACV2021/papers/Oh_EVET_Enhancing_Visual_Explanations_of_Deep_Neural_Networks_Using_Image_WACV_2021_paper.pdf)
+  [[presentation]](https://www.youtube.com/watch?v=zDDQLCVtvYg) 
   <br>
 
 - **[W1] Jointly Optimize Positive and Negative Saliencies for Black Box Classifiers**
