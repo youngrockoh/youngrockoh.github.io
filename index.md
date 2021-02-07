@@ -14,7 +14,7 @@ To this end, I have conducted research on deep metric learning and interpretable
 ## Research Interests
 
 - **Mathematics:** statistical inference, stochastic process
-- **Machine Learning:** representation learning, interpretable machine learning, graph neural networks, meta-learning
+- **Machine Learning:** representation learning, interpretable machine learning, graph neural networks
 
 ## News
 
@@ -48,10 +48,15 @@ To this end, I have conducted research on deep metric learning and interpretable
  <br>
  *Annals of Operations Research, vol. 293,No. 1, pp. 213-235, Oct 2020.*
  <br>
+ [[url]](https://link.springer.com/article/10.1007%2Fs10479-020-03597-6)
+ <br>
 
 ---
 ### 2019
 - **[D] Mathematical Modeling and Analysis for Adaptive Medium Access Protocols in Wireless Networks**
+<br>
+Proposed an autonomous adaptive wireless communication protocol
+based on a mathematical analysis of the network traffic estimation method with a lazy random walk model.
 <br>
 
 ---
@@ -70,21 +75,23 @@ Tsukuba, Japan, July 25-27, 2018.*
 <br>
 *IEEE Access, vol. 6, pp. 15155-15169, Apr 2018.*
 <br>
+[[url]](https://ieeexplore.ieee.org/document/8290707)
+<br>
 
 ---
 ## Work Experience
-<!--
+
 ### 2021
 - **XAI-assisted Representation Learning**
 (Jan 2021 ~ Present, Funded by Samsung SDS)
 <br>
-Deep metric learning on the embeddings extracted through saliency methods
+Developing interpretable deep metric learning schemes
+
 ---
--->
 ### 2020
 - **Interpretability Method for Graph Neural Network Models**
 (Nov 2020 ~ Present, Funded by Samsung SDS)
-<br> Develop interpretability methods for graph neural network-based link prediction models
+<br> Developing efficient interpretability methods for graph neural network models
 
 - **AI Framework for Interpretable Machine Learning and Continual Learning**
 (Jan 2020 ~ Oct 2020, Funded by Samsung SDS)
@@ -97,7 +104,7 @@ Deep metric learning on the embeddings extracted through saliency methods
 (Mar 2019 ~ Dec 2019
 , Funded by Samsung SDS)
 <br> Research on confidence scores for deep neural network models' decisions
-<br> Proposed a novel confidence score which covers both in-distribution and out-of-distribution data
+<br> Developed a novel confidence score which covers both in-distribution and out-of-distribution data
 
 - **Simulation for Data Infrastructure based Application Service**
 (Oct 2018 ~ Dec 2018, Funded by ETRI)
