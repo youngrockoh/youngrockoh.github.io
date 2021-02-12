@@ -25,6 +25,18 @@ To this end, I have conducted research on deep metric learning and interpretable
 
 **J**: Journal, **C**: Conference, **W**: Workshop, **D**: Dissertation
 
+
+### 2021
+-**LIFT-CAM: Towards Better Explanations for Class Activation Mapping**
+<br>
+Hyungsik Jung, **Youngrock Oh**
+<br>
+arXiv
+<br>
+[[arXiv]](https://arxiv.org/pdf/2102.05228.pdf)
+
+---
+
 ### 2020
 - **[C3] EVET: Enhancing Visual Explanations of Deep Neural Networks Using Image Transformations**
   <br>
