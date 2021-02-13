@@ -27,7 +27,7 @@ To this end, I have conducted research on deep metric learning and interpretable
 
 
 ### 2021
--**LIFT-CAM: Towards Better Explanations for Class Activation Mapping**
+- **LIFT-CAM: Towards Better Explanations for Class Activation Mapping**
 <br>
 Hyungsik Jung, **Youngrock Oh**
 <br>
